@@ -1,0 +1,9 @@
+# Salidas de JMeter (el pipeline las genera; no se suben)
+*.jtl
+jmeter.log
+pruebas/jmeter/reporte/
+pruebas/experimentacion/resultados/
+# Python
+__pycache__/
+*.pyc
+api.log
